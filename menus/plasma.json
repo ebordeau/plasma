@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle lightning-editor",
-        "command": "lightning-editor:toggle"
+        "label": "Toggle plasma",
+        "command": "plasma:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "lightning-editor",
+          "label": "Plasma",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "lightning-editor:toggle"
+              "command": "plasma:toggle"
             }
           ]
         }

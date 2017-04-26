@@ -1,13 +1,13 @@
 {
-  "name": "lightning-editor",
-  "main": "./lib/lightning-editor",
+  "name": "plasma",
+  "main": "./lib/plasma",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "lightning-editor:toggle"
+    "atom-workspace": "plasma:toggle"
   },
-  "repository": "https://github.com/atom/lightning-editor",
+  "repository": "https://github.com/ebordeau/plasma",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
