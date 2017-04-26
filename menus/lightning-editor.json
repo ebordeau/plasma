@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle lightning-editor",
+        "command": "lightning-editor:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lightning-editor",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "lightning-editor:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
